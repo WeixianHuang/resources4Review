@@ -71,7 +71,7 @@
 - **Automated Anatomical Labeling (AAL): Identify regions of interest (ROI).** *[N. Tzourio-Mazoyer, B. Landeau, D. Papathanassiou, F. Crivello, O. Etard, N. Delcroix, B. Mazoyer, and M. Joliot, “Automated anatomical labeling of activations in spm using a macroscopic anatomical parcellation of the mni mri single-subject brain,” Neuroimage, vol. 15, no. 1, pp. 273–289, 2002.](https://www.sciencedirect.com/science/article/pii/S1053811901909784)*
 - **Template: Identify regions of interest (ROI).** *[N. J. Kabani, D. J. Macdonald, C. J. Holmes, and A. C. Evans, “3D Anatomical Atlas of the Human Brain,” Neuroimage, vol. 7, no. 4, 1998.](https://www.sciencedirect.com/science/article/pii/S1053811918315507?dgcid=api_sd_search-api-endpoint)*
 - **[3D Slicer](https://www.slicer.org/): Delineate lesion volumes.** 
--  **pyradiomics: Extract image statistics features.**
+-  **pyradiomics: Extract image statistics features.** *[J. J. M. van Griethuysen, A. Fedorov, C. Parmar, A. Hosny, N. Aucoin, V. Narayan, R. G. H. Beets-Tan, J.-C. Fillion-Robin, S. Pieper, and H. J. W. L. Aerts, “Computational Radiomics System to Decode the Radiographic Phenotype,” Cancer Research, vol. 77, no. 21, 2017.](https://pubmed.ncbi.nlm.nih.gov/29092951/)*
 - **[FreeSurfer](https://surfer.nmr.mgh.harvard.edu/): Extract image statistics features.**
 
 #### -CT
