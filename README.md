@@ -106,8 +106,8 @@
 #### -Network-based methods
 - **A deep learning model** *[S. Li, H. Han, D. Sui, A. Hao, and H. Qin, “A Novel Radiogenomics Framework for Genomic and Image Feature Correlation using Deep Learning,” in 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Madrid, Spain, Dec. 2018, pp. 899–906.](https://ieeexplore.ieee.org/abstract/document/8621432/)*
 -  **A deep neural network pre-trained with an autoencoder and dropout** *[N. F. Smedley and W. Hsu, “Using deep neural networks for radiogenomic analysis,” in 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018),Washington, DC, 2018, pp. 1529–1533.](https://ieeexplore.ieee.org/abstract/document/8363864/)*
-##3.2 Feature Fusion
-###3.2.1 Fusion through association
+## 3.2 Feature Fusion
+### 3.2.1 Fusion through association
 #### -CCA-based methods
 - **GN-SCCA** *[L. Grosenick, B. Klingenberg, K. Katovich, B. Knutson, and J. E. Taylor, “Interpretable whole-brain prediction analysis with GraphNet,” NeuroImage, vol. 72, pp. 304–321, 2013.](https://www.sciencedirect.com/science/article/pii/S1053811912012487)*
 - **AGN-SCCA ** *[L. Du, H. Huang, J. Yan, S. Kim, S. L. Risacher, M. Inlow, J. H. Moore, A. J. Saykin, L. Shen, and f. t. A. D. N. Initiative, “Structured sparse canonical correlation analysis for brain imaging genetics: an improved GraphNet method,” Bioinformatics, vol. 32, no. 10, pp. 1544–1551, 2016.](https://academic.oup.com/bioinformatics/article/32/10/1544/1743372)*
