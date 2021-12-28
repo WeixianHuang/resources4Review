@@ -210,7 +210,7 @@
 
 ---
 # 5. Performance comparison
-## 5.1 Papers using  [ADNI](http://adni.loni.usc.edu/) datasets
+## 5.1 Papers using  [ADNI](http://adni.loni.usc.edu/) dataset
 1. **simpleMKL** *[Z. Zhang, H. Huang, D. Shen, and A. D. N. Initiative, “Integrative analysis of multi-dimensional imaging genomics data for Alzheimer’s disease prediction,” Frontiers in aging neuroscience, vol. 6, p. 260, 2014.](https://www.frontiersin.org/articles/10.3389/fnagi.2014.00260/full#h3) | - | [ADNI](http://adni.loni.usc.edu/)*
 2.  **<img src="https://latex.codecogs.com/svg.image?\l_{1,p}-norm" title="\l_{1,p}-norm" /> MKL**  *[J. Peng, L. An, X. Zhu, Y. Jin, and D. Shen, “Structured sparse kernel learning for imaging genetics based Alzheimer’s disease diagnosis,” in International Conference on Medical Image Computing and Computer-Assisted Intervention, 2016, pp. 70–78.](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_9#Fn1)*
 3.  **Deep Model** *[J. Venugopalan, L. Tong, H. R. Hassanzadeh, and M. D. Wang, “Multimodal deep learning models for early detection of alzheimer’s disease stage,” Scientific reports, vol. 11, no. 1, pp. 1–13, 2021.](https://www.nature.com/articles/s41598-020-74399-w)*
@@ -232,7 +232,7 @@
 9.  **LSCDFS-MKL** *[A. Zhang, A. Li, J. He, and M. Wang, “LSCDFS-MKL: A multiple kernel based method for lung squamous cell carcinomas diseasefree survival prediction with pathological and genomic data,” Journal of Biomedical Informatics, vol. 94, p. 103194, 2019.](https://www.sciencedirect.com/science/article/pii/S1532046419301121)* **cancers:** lung squamous cell carcinomas(SCC)
 10.  **Deep learning-based** *[L. A. Vale Silva and K. Rohr, “Pan-Cancer Prognosis Prediction Using Multimodal Deep Learning,” in 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020, pp. 568–571.](https://ieeexplore.ieee.org/document/9098665)* **cancers:** Pancancer
 
-## 5.3 Papers using  other dataset
+## 5.3 Papers using  other datasets
 - [V. Subramanian, M. N. Do, and T. Syeda-Mahmood, “Multimodal fusion of imaging and genomics for lung cancer recurrence prediction,” in 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020, pp. 804–808.](https://ieeexplore.ieee.org/abstract/document/9098545/) **cancers:** NSCLC  **code:** https://github.com/svaishnavi411/multimodal-recurrence **dataset:** *[S. Bakr, O. Gevaert, S. Echegaray, K. Ayers, M. Zhou, M. Shafiq, H. Zheng, J. A. Benson, W. Zhang, A. N. Leung, et al., “A radiogenomic dataset of non-small cell lung cancer,” Scientific data, vol. 5, pp. 180–202, 2018.](https://www.nature.com/articles/sdata2018202)*
 
 
