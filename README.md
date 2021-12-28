@@ -1,13 +1,13 @@
 
-#Models
-#####We provide the corresponding resources according to the modules of our paper, including data preprocessing, feature processing, association and fusion, datasets and performance comparison.
+# Models
+##### We provide the corresponding resources according to the modules of our paper, including data preprocessing, feature processing, association and fusion, datasets and performance comparison.
 ![Alt text](./1640503805712.png)
 - Figure 1. Flowchart of omics-imaging fusion
 
 ---
-#1. Data Peprocessing 
+# 1. Data Peprocessing 
 
-##1.1 Tools and methods for omics data preprocessing
+## 1.1 Tools and methods for omics data preprocessing
 - **K-nearest neighbor: Imputation method for the missing data.**  *[N. S. Altman, “An introduction to kernel and nearest-neighbor nonparametric regression,” The American Statistician, vol. 46, no. 3, pp. 175–185, 1992.](https://www.tandfonline.com/doi/abs/10.1080/00031305.1992.10475879)*
 - **IMPUTE2: Imputation method for the missing data.**  *[Howie B N, Donnelly P, Marchini J. A flexible and accurate genotype imputation method for the next generation of genome-wide association studies[J]. PLoS genetics, 2009, 5(6): e1000529.](https://journals.plos.org/plosgenetics/article/metrics?id=10.1371/journal.pgen.1000529#citedHeader)*
 - **mice package: Imputation method for the missing data.** *[van Buuren, S., and Groothuis-oudshoorn, K. (2011) mice: Multivariate Imputation by Chained Equations in R. J. Stat. Softw. 45, 1–67](https://www.jstatsoft.org/article/view/v045i03)*
@@ -16,7 +16,7 @@
 - **[DESeq2](http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html): For data normalization.** *[ Love M, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2. Genome Biology. 2014;](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8)*
 -  **[wateRmelon](https://www.bioconductor.org/packages/release/bioc/html/wateRmelon.html): For data transformation and normalization.**  *[Pidsley R, Wong C C Y, Volta M, et al. A data-driven approach to preprocessing Illumina 450K methylation array data[J]. BMC genomics, 2013, 14(1): 1-10.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-293)*
 
-##1.2 Tools and methods for imaging data preprocessing
+## 1.2 Tools and methods for imaging data preprocessing
 #### -MRI 
  - **ITK-SNAP: Correction, skull stripping, image resampling.** *[P. A. Yushkevich, J. Piven, H. Cody Hazlett, R. Gimpel Smith, S. Ho, J. C. Gee, and G. Gerig, “User-guided 3D active contour segmentation of anatomical structures: Significantly improved efficiency and reliability,” Neuroimage, vol. 31, no. 3, pp. 1116–1128, 2006.](https://pubmed.ncbi.nlm.nih.gov/16545965/)*
  - **[FSL](http://fsl.fmrib.ox.ac.uk/fsl): Image segmentation (three tissues):gray matter, white matter, cerebrospinal fluid** 
@@ -41,8 +41,8 @@
 
 ---
 
-#2.Feature Processing 
-##2.1 Traditional feature extraction methods for omics data in omics-imaging fusion
+# 2.Feature Processing 
+## 2.1 Traditional feature extraction methods for omics data in omics-imaging fusion
 #### -Gene expression (mRNA expression)
 - **EdgeR: Differential expression genes (DEGs) analysis.**  *[M. D. Robinson, D. J. McCarthy, and G. K. Smyth, “edgeR: a Bioconductor package for differential expression analysis of digital gene expression data,” Bioinformatics, vol. 26, no. 1, pp. 139–140, 2010.](https://pubmed.ncbi.nlm.nih.gov/19910308/)
 - **[DESeq2](http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html): Differential expression genes (DEGs) analysis.**  *[ Love M, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2. Genome Biology. 2014;](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8)*
@@ -66,7 +66,7 @@
 - **[AlzGene](http://www.alzgene.org): Using the AlzGene database to extract features.**
 -  **Graph-based: Construction of a subject-subject graph to analyze relationships between patients.**
  
-##2.2 Traditional feature extraction methods for imaging data in omics-imaging fusion
+## 2.2 Traditional feature extraction methods for imaging data in omics-imaging fusion
 #### -MRI
 - **Automated Anatomical Labeling (AAL): Identify regions of interest (ROI).** *[N. Tzourio-Mazoyer, B. Landeau, D. Papathanassiou, F. Crivello, O. Etard, N. Delcroix, B. Mazoyer, and M. Joliot, “Automated anatomical labeling of activations in spm using a macroscopic anatomical parcellation of the mni mri single-subject brain,” Neuroimage, vol. 15, no. 1, pp. 273–289, 2002.](https://www.sciencedirect.com/science/article/pii/S1053811901909784)*
 - **Template: Identify regions of interest (ROI).** *[N. J. Kabani, D. J. Macdonald, C. J. Holmes, and A. C. Evans, “3D Anatomical Atlas of the Human Brain,” Neuroimage, vol. 7, no. 4, 1998.](https://www.sciencedirect.com/science/article/pii/S1053811918315507?dgcid=api_sd_search-api-endpoint)*
@@ -89,9 +89,8 @@
 -  **CellProfiler: Extract image statistics features.** *[A. E. Carpenter, T. R. Jones, M. R. Lamprecht, C. Clarke, I. H. Kang, O. Friman, D. A. Guertin, J. H. Chang, R. A. Lindquist, and J. Moffat, “CellProfiler: image analysis software for identifying and quantifying cell phenotypes,” Genome biology, vol. 7, no. 10, 2006.](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2006-7-10-r100)*
 
 ---
-#3. Association and Fusion 
-
-##3.1 Omics-imaging Association
+# 3. Association and Fusion 
+## 3.1 Omics-imaging Association
 #### -For real-valued data
 - **Pearson's correlation** *[X. Liao, B. Cai, B. Tian, Y. Luo, W. Song, and Y. Li, “Machine learning based radiogenomics analysis of features and metagenes in glioblastoma multiforme patients with different survival time,” Journal of Cellular and Molecular Medicine, vol. 23, no. 6, pp. 4375–4385, 2019.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcmm.14328)*
 - **A multiple functional linear model (MFLM)**  *[J. Yao, X. Zhu, F. Zhu, and J. Huang, “Deep Correlational Learning for Survival Prediction from Multi-modality Data,” in Medical Image Computing and Computer-Assisted Intervention MICCAI 2017, M. Descoteaux, L. Maier-Hein, A. Franz, P. Jannin, D. L. Collins, and S. Duchesne, Eds., Cham, 2017, vol. 10434, pp. 406–414.](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_46)*
@@ -142,7 +141,7 @@
 - **MDJNMF** *[J. Deng, W. Zeng, S. Luo, W. Kong, Y. Shi, Y. Li, and H. Zhang, “Integrating multiple genomic imaging data for the study of lung metastasis in sarcomas using multi-dimensional constrained joint non-negative matrix factorization,” Information Sciences, vol. 576, pp. 24–36, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0020025521006496)*
 
 
-###3.2.2 Direct Fusion
+### 3.2.2 Direct Fusion
 #### -Basic methods
 - **Vector concatenation** 
 1. *[X. Zhu, J. Yao, X. Luo, G. Xiao, Y. Xie, A. Gazdar, and J. Huang, “Lung cancer survival prediction from pathological images and genetic data: An integration study,” in 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI), 2016, pp. 1173– 1176.](https://ieeexplore.ieee.org/abstract/document/7493475/)*
@@ -209,8 +208,8 @@
 - **[The Philadelphia Neurodevelopmental Cohort (PNC)]** *[T. D. Satterthwaite, J. J. Connolly, K. Ruparel, M. E. Calkins, C. Jackson, M. A. Elliott, D. R. Roalf, R. Hopson, K. Prabhakaran, M. Behr et al., “The philadelphia neurodevelopmental cohort: A publicly available resource for the study of normal and abnormal brain development in youth,” Neuroimage, vol. 124, pp. 1115– 1119, 2016.](https://www.sciencedirect.com/science/article/pii/S1053811915002529)*
 
 ---
-#5. Performance comparison
-##5.1 Papers using  [ADNI](http://adni.loni.usc.edu/) datasets
+# 5. Performance comparison
+## 5.1 Papers using  [ADNI](http://adni.loni.usc.edu/) datasets
 1. **simpleMKL** *[Z. Zhang, H. Huang, D. Shen, and A. D. N. Initiative, “Integrative analysis of multi-dimensional imaging genomics data for Alzheimer’s disease prediction,” Frontiers in aging neuroscience, vol. 6, p. 260, 2014.](https://www.frontiersin.org/articles/10.3389/fnagi.2014.00260/full#h3) | - | [ADNI](http://adni.loni.usc.edu/)*
 2.  **$\ell_{1,p}$-norm MKL**  *[[J. Peng, L. An, X. Zhu, Y. Jin, and D. Shen, “Structured sparse kernel learning for imaging genetics based Alzheimer’s disease diagnosis,” in International Conference on Medical Image Computing and Computer-Assisted Intervention, 2016, pp. 70–78.](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_9#Fn1)*
 3.  **Deep Model** *[J. Venugopalan, L. Tong, H. R. Hassanzadeh, and M. D. Wang, “Multimodal deep learning models for early detection of alzheimer’s disease stage,” Scientific reports, vol. 11, no. 1, pp. 1–13, 2021.](https://www.nature.com/articles/s41598-020-74399-w)*
