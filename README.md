@@ -22,7 +22,7 @@
  - **[FSL](http://fsl.fmrib.ox.ac.uk/fsl): Image segmentation (three tissues):gray matter, white matter, cerebrospinal fluid** 
  - **[FreeSurfer](https://surfer.nmr.mgh.harvard.edu/): Brain image processing and analysis** 
  - **[MIPAV software](https://mipav.cit.nih.gov/clickwrap.php): Anterior commissure- posterior commissure correction** 
- - **N3 algorithm:  Intensity inhomogeneity correction. ** *[J. G. Sled, A. P. Zijdenbos, and A. C. Evans, “A nonparametric method for automatic correction of intensity nonuniformity in MRI data,” IEEE transactions on medical imaging, vol. 17, no. 1, pp. 87–97, 1998.](https://pubmed.ncbi.nlm.nih.gov/9617910/)*
+ - **N3 algorithm:  Intensity inhomogeneity correction.** *[J. G. Sled, A. P. Zijdenbos, and A. C. Evans, “A nonparametric method for automatic correction of intensity nonuniformity in MRI data,” IEEE transactions on medical imaging, vol. 17, no. 1, pp. 87–97, 1998.](https://pubmed.ncbi.nlm.nih.gov/9617910/)*
  - **Brain surface extractor (BSE): Skull stripping.** *[D. W. Shattuck, S. R. Sandor-Leahy, K. A. Schaper, D. A. Rottenberg, and R. M. Leahy, “Magnetic resonance image tissue classification using a partial volume model,” NeuroImage, vol. 13, no. 5, pp. 856–876, 2001.](https://pubmed.ncbi.nlm.nih.gov/11304082/)*
  - **Brain extraction tool (BET): Skull stripping.** *[S. M. Smith, “Fast robust automated brain extraction,” Human Brain Mapping, vol. 17, no. 3, pp. 143–155, 2002.](https://pubmed.ncbi.nlm.nih.gov/12391568/)*
  - **HAMMER: Elastic registration.** *[D. Shen and C. Davatzikos, “HAMMER: hierarchical attribute matching mechanism for elastic registration,” in IEEE Workshop on Mathematical Methods in Biomedical Image Analysis, 2002.](https://ieeexplore.ieee.org/abstract/document/1175091)*
