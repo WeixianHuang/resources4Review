@@ -53,7 +53,6 @@
 
 
 #### -DNA methylation
-- **Log-Rank Test: Extract the relevant features.**
 - **KEGG: Using the KEGG database to extract features.** *[M. Kanehisa and S. Goto, “KEGG: kyoto encyclopedia of genes and genomes,” Nucleic acids research, vol. 28, no. 1, pp. 27–30, 2000.](https://academic.oup.com/nar/article/28/1/27/2384332?login=true)*
 -  **mRMR: A toolbox that uses the mutual information to extract features.** *[Ding C, Peng H. Minimum redundancy feature selection from microarray gene expression data[J]. Journal of bioinformatics and computational biology, 2005, 3(02): 185-205.](https://www.worldscientific.com/doi/abs/10.1142/s0219720005001004)*
 
