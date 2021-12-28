@@ -49,7 +49,7 @@
 -  **WGCNA: Gene coexpression network analysis (GCNA).** *[P. Langfelder and S. Horvath, “WGCNA: an R package for weighted correlation network analysis,” BMC bioinformatics, vol. 9, no. 1, p. 559, 2008.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559)*
 -   **lmQCM: Gene coexpression network analysis (GCNA).** *[J. Zhang and K. Huang, “Normalized imqcm: An algorithm for detecting weak quasi-cliques in weighted graph with applications in gene co-expression module discovery in cancers,” Cancer informatics, vol. 13, p. CIN. S14021, 2014.](https://pubmed.ncbi.nlm.nih.gov/27486298/)*
 -  **mRMR: A toolbox that uses the mutual information to extract features.** *[Ding C, Peng H. Minimum redundancy feature selection from microarray gene expression data[J]. Journal of bioinformatics and computational biology, 2005, 3(02): 185-205.](https://www.worldscientific.com/doi/abs/10.1142/s0219720005001004)*
--  **Polynomial KPCA: Dimensionality reduction. ** *[Kokiopoulou E, Saad Y. PCA and kernel PCA using polynomial filtering: a case study on face recognition[J]. University of Minnesota, 2004.](https://www-users.cs.umn.edu/~saad/PDF/umsi-2004-213.pdf)*
+-  **Polynomial KPCA: Dimensionality reduction.** *[Kokiopoulou E, Saad Y. PCA and kernel PCA using polynomial filtering: a case study on face recognition[J]. University of Minnesota, 2004.](https://www-users.cs.umn.edu/~saad/PDF/umsi-2004-213.pdf)*
 
 #### -Protein expression
 - **Linear  correlation: Extract features by calculating the correlation coefficients between features and labels.**
