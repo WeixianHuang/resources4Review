@@ -110,10 +110,10 @@
 ### 3.2.1 Fusion through association
 #### -CCA-based methods
 - **GN-SCCA** *[L. Grosenick, B. Klingenberg, K. Katovich, B. Knutson, and J. E. Taylor, “Interpretable whole-brain prediction analysis with GraphNet,” NeuroImage, vol. 72, pp. 304–321, 2013.](https://www.sciencedirect.com/science/article/pii/S1053811912012487)*
-- **AGN-SCCA ** *[L. Du, H. Huang, J. Yan, S. Kim, S. L. Risacher, M. Inlow, J. H. Moore, A. J. Saykin, L. Shen, and f. t. A. D. N. Initiative, “Structured sparse canonical correlation analysis for brain imaging genetics: an improved GraphNet method,” Bioinformatics, vol. 32, no. 10, pp. 1544–1551, 2016.](https://academic.oup.com/bioinformatics/article/32/10/1544/1743372)*
+- **AGN-SCCA** *[L. Du, H. Huang, J. Yan, S. Kim, S. L. Risacher, M. Inlow, J. H. Moore, A. J. Saykin, L. Shen, and f. t. A. D. N. Initiative, “Structured sparse canonical correlation analysis for brain imaging genetics: an improved GraphNet method,” Bioinformatics, vol. 32, no. 10, pp. 1544–1551, 2016.](https://academic.oup.com/bioinformatics/article/32/10/1544/1743372)*
 - **A generalized nonconvex SCCA model** *[L. Du, K. Liu, X. Yao, J. Yan, S. L. Risacher, J. Han, L. Guo, A. J. Saykin, and L. Shen, “Pattern Discovery in Brain Imaging Genetics via SCCA Modeling with a Generic Non-convex Penalty,” Scientific Reports, vol. 7, no. 1, p. 14052, 2017.](https://www.nature.com/articles/s41598-017-13930-y)*
 -  **ssCCA**  *[A.-R. Mohammadi-Nejad, G.-A. Hossein-Zadeh, and H. Soltanian-Zadeh, “Structured and sparse canonical correlation analysis as a brain-wide multi-modal data fusion approach,” IEEE transactions on medical imaging, vol. 36, no. 7, pp. 1438–1448, 2017.](https://ur.booksc.eu/book/64495622/4f1376)*
--  **SCCA+regression function ** 
+-  **SCCA+regression function** 
 1. *[Y. Bai, Z. Pascal, W. Hu, V. D. Calhoun, and Y.-P. Wang, “Biomarker identification through integrating fmri and epigenetics,” IEEE Transactions on Biomedical Engineering, vol. 67, no. 4, pp. 1186–1196, 2019.](https://ieeexplore.ieee.org/abstract/document/8786218)*
 2.  *[L. Du, K. Liu, X. Yao, S. L. Risacher, L. Guo, A. J. Saykin, and L. Shen, “Diagnosis Status Guided Brain Imaging Genetics Via Integrated Regression And Sparse Canonical Correlation Analysis,” in 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019), 2019, pp. 356–359.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6914314/)*
 - **DSCCA** *[J. Yan, S. L. Risacher, K. Nho, A. J. Saykin, and L. Shen, “Identification of discriminative imaging proteomics associations in alzheimer’s disease via a novel sparse correlation model,” in Biocomputing 2017, 2016, pp. 94–104.](https://www.worldscientific.com/doi/abs/10.1142/9789813207813_0010)*
@@ -125,7 +125,7 @@
 
 #### -ICA-based methods
 - **joint ICA** *[V. D. Calhoun, T. Adalı, K. A. Kiehl, R. Astur, J. J. Pekar, and G. D. Pearlson, “A method for multitask fmri data fusion applied to schizophrenia,” Human brain mapping, vol. 27, no. 7, pp. 598– 610, 2006.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.20204)*
-- **parallel ICA ** 
+- **parallel ICA** 
 1. *[J. Liu, G. Pearlson, A. Windemuth, G. Ruano, N. I. Perrone- Bizzozero, and V. Calhoun, “Combining fmri and snp data to investigate connections between brain function and genetics using parallel ica,” Human brain mapping, vol. 30, no. 1, pp. 241–255, 2009.](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20508)*
 2. *[S. A. Meda, B. Narayanan, J. Liu, N. I. Perrone-Bizzozero, M. C. Stevens, V. D. Calhoun, D. C. Glahn, L. Shen, S. L. Risacher, A. J. Saykin et al., “A large scale multivariate parallel ica method reveals novel imaging–genetic relationships for alzheimer’s disease in the adni cohort,” Neuroimage, vol. 60, no. 3, pp. 1608–1621, 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3312985/)*
 - **three-way parallel ICA** * [V. M. Vergara, A. Ulloa, V. D. Calhoun, D. Boutte, J. Chen, and J. Liu, “A three-way parallel ica approach to analyze links among genetics, brain structure and brain function,” Neuroimage, vol. 98, pp. 386–394, 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141686/)*
