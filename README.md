@@ -199,7 +199,7 @@
 ---
 # 4. Datasets
 - **[The Cancer Genome Atlas (TCGA)](https://tcga-data.nci.nih.gov.)**
-- **The Cancer Imaging Archive (TCIA)(https://www.cancerimagingarchive.net/)**
+- **[The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)**
 - **[cBioportal](https://www.cbioportal.org)**
 - **The NSCLC-Radiogenomics Dataset** *[S. Bakr, O. Gevaert, S. Echegaray, K. Ayers, M. Zhou, M. Shafiq, H. Zheng, J. A. Benson, W. Zhang, and A. N. Leung, “A radiogenomic dataset of non-small cell lung cancer,” Scientific data, vol. 5, no. 1, pp. 1–9, 2018.](https://www.nature.com/articles/sdata2018202)*
 - **The Mayo Clinic** *[Z. Sun, L. Wang, B. W. Eckloff, B. Deng, Y. Wang, J. A. Wampfler, J. Jang, E. D. Wieben, J. Jen, M. You, and P. Yang, “Conserved recurrent gene mutations correlate with pathway deregulation and clinical outcomes of lung adenocarcinoma in never-smokers,” BMC Medical Genomics, vol. 7, no. 1, p. 486, 2014.](https://link.springer.com/article/10.1186/1755-8794-7-32)*
