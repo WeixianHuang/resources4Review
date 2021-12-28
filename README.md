@@ -51,20 +51,18 @@
 -  **mRMR: A toolbox that uses the mutual information to extract features.** *[Ding C, Peng H. Minimum redundancy feature selection from microarray gene expression data[J]. Journal of bioinformatics and computational biology, 2005, 3(02): 185-205.](https://www.worldscientific.com/doi/abs/10.1142/s0219720005001004)*
 -  **Polynomial KPCA: Dimensionality reduction.** *[Kokiopoulou E, Saad Y. PCA and kernel PCA using polynomial filtering: a case study on face recognition[J]. University of Minnesota, 2004.](https://www-users.cs.umn.edu/~saad/PDF/umsi-2004-213.pdf)*
 
-#### -Protein expression
-- **Linear  correlation: Extract features by calculating the correlation coefficients between features and labels.**
 
 #### -DNA methylation
 - **Log-Rank Test: Extract the relevant features.**
 - **KEGG: Using the KEGG database to extract features.** *[M. Kanehisa and S. Goto, “KEGG: kyoto encyclopedia of genes and genomes,” Nucleic acids research, vol. 28, no. 1, pp. 27–30, 2000.](https://academic.oup.com/nar/article/28/1/27/2384332?login=true)*
 -  **mRMR: A toolbox that uses the mutual information to extract features.** *[Ding C, Peng H. Minimum redundancy feature selection from microarray gene expression data[J]. Journal of bioinformatics and computational biology, 2005, 3(02): 185-205.](https://www.worldscientific.com/doi/abs/10.1142/s0219720005001004)*
--  **Graph-based: Construction of a subject-subject graph to analyze relationships between patients.**
+
 
 
 #### -SNPs
 - **KEGG: Using the KEGG database to extract features.** *[M. Kanehisa and S. Goto, “KEGG: kyoto encyclopedia of genes and genomes,” Nucleic acids research, vol. 28, no. 1, pp. 27–30, 2000.](https://academic.oup.com/nar/article/28/1/27/2384332?login=true)*
 - **[AlzGene](http://www.alzgene.org): Using the AlzGene database to extract features.**
--  **Graph-based: Construction of a subject-subject graph to analyze relationships between patients.**
+
  
 ## 2.2 Traditional feature extraction methods for imaging data in omics-imaging fusion
 #### -MRI
