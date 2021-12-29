@@ -203,7 +203,7 @@
 - **The Mayo Clinic** *[Z. Sun, L. Wang, B. W. Eckloff, B. Deng, Y. Wang, J. A. Wampfler, J. Jang, E. D. Wieben, J. Jen, M. You, and P. Yang, “Conserved recurrent gene mutations correlate with pathway deregulation and clinical outcomes of lung adenocarcinoma in never-smokers,” BMC Medical Genomics, vol. 7, no. 1, p. 486, 2014.](https://link.springer.com/article/10.1186/1755-8794-7-32)*
 - **[The Mind Clinical Imaging Consortium(MCIC)](https://central.xnat.org/data/projects/MCIC)**
 - **[The Alzheimer’s Disease Neuroimaging Initiative(ADNI)](http://www.adni-info.org)**
-- **[The Philadelphia Neurodevelopmental Cohort (PNC)]** *[T. D. Satterthwaite, J. J. Connolly, K. Ruparel, M. E. Calkins, C. Jackson, M. A. Elliott, D. R. Roalf, R. Hopson, K. Prabhakaran, M. Behr et al., “The philadelphia neurodevelopmental cohort: A publicly available resource for the study of normal and abnormal brain development in youth,” Neuroimage, vol. 124, pp. 1115– 1119, 2016.](https://www.sciencedirect.com/science/article/pii/S1053811915002529)*
+- **The Philadelphia Neurodevelopmental Cohort (PNC)** *[T. D. Satterthwaite, J. J. Connolly, K. Ruparel, M. E. Calkins, C. Jackson, M. A. Elliott, D. R. Roalf, R. Hopson, K. Prabhakaran, M. Behr et al., “The philadelphia neurodevelopmental cohort: A publicly available resource for the study of normal and abnormal brain development in youth,” Neuroimage, vol. 124, pp. 1115– 1119, 2016.](https://www.sciencedirect.com/science/article/pii/S1053811915002529)*
 
 ---
 # 5. Performance comparison
